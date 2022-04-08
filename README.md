@@ -10,8 +10,6 @@ Ciobotaru Mihai (https://github.com/mihai2096)
 
 ## Acknowledgments
 
-* [Multithreading](https://www.geeksforgeeks.org/multithreading-in-cpp/)
-* [SFML documentation](https://www.sfml-dev.org/documentation/2.5.1/)
-* [John Pablok - chess pieces and board assets](https://opengameart.org/content/chess-pieces-and-board-squares)
-* [Jacob Sorber](https://www.youtube.com/c/JacobSorber)
-* [Lenuta Alboaie, Andrei Panu - computer networking](https://profs.info.uaic.ro/~computernetworks/cursullaboratorul.php)
+* [Liquid Crystal library and documentation](https://www.arduino.cc/reference/en/libraries/liquidcrystal/)
+* [HCSR04 library and documenation](https://github.com/gamegine/HCSR04-ultrasonic-sensor-lib)
+* [Plusivo Microcontroller Starter Kit electronic guide](https://kits.plusivo.com)
